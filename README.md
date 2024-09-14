@@ -6,3 +6,5 @@ The functioning of this alarm is reliant on the water acting as a resistor in a 
 The output of the voltage divider is connected to the non-inverting input of an LM358 op-amp configured as a comparator. The inverting input is connected to the middle pin of a potentionmeter which sets the threshold voltage.
 
 Normally, the presence of water pulls the output of the voltage divider towards ground. When water is absent, the output of the voltage divider is pulled up, in turn pulling the output of the LM358 to the positive supply rail. This powers the 555 timer, which pulses an LED and beeper via NPN transistors to create an alert sound.
+
+![IMG-4143](https://github.com/user-attachments/assets/ea0145cb-60d0-41d8-8706-07b8e04341b5)
