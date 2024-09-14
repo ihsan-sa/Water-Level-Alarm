@@ -1,4 +1,4 @@
-#Water Level Alarm
+# Water Level Alarm
 
 I created this alarm to warn me when my christmas tree ran out of water. It can also be used to alert the user if a plant runs out of water.
 
